@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fadoua Mahroug — Portfolio
 
 A professional, editorial-style portfolio built with Next.js.
@@ -27,3 +28,7 @@ Then open http://localhost:3000
 GitHub: https://github.com/mahrougfadoua
 LinkedIn: https://www.linkedin.com/in/fadouamahroug/
 Kaggle: https://www.kaggle.com/fadouamahroug
+=======
+# portfolio
+Fadoua Mahroug | AI Engineer &amp; Data Scientist
+>>>>>>> 393117007ded5e8e673d00ab02ee958403e09595
