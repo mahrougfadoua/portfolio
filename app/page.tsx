@@ -1718,7 +1718,7 @@ export default function Home() {
       <section className="contact section" id="contact">
         <div className="container">
           <div className="contact-card">
-            <div className="contact-floating">👋</div>
+            <div className="contact-floating"></div>
 
             <span className="eyebrow">LET&apos;S CONNECT</span>
 
